@@ -6,13 +6,13 @@ This repository outlines what should and should not be done when working on Opal
 
 These points outline the basic format every file should follow.
 
-- Comment on top of file stating "This file is licensed under the \_\_\_ License. View LICENSE at the root of the project for more info."
-- Spaces instead of tabs
-- 2 spaces instead of 4
+- Comment on top of file stating "This code is licensed under the \_\_\_ License. View LICENSE at the root of the project for more info."
+- Use spaces instead of tabs
+- Use 2 spaces instead of 4
 - Before each commit, clippy is required to be ran before being pushed
 - If a function call's arguments don't all fit on one line, break them apart
 - Parentheses should NOT have internal padding
-- LF line endings
+- Use LF line endings
 
 ## **Comments**
 
